@@ -12,3 +12,9 @@ for update
 git add .
 git commit -m  "my second commit"
 git push origin master
+
+For creat branch 
+git branch
+git branch name
+ for franch selection
+git checkout brunch name
