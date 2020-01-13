@@ -6,3 +6,9 @@ git config user.email "email"
 git commit -m "Comits"
 git remote add origin github profile link
 git push -u origin master
+
+
+for update
+git add .
+git commit -m  "my second commit"
+git push origin master
